@@ -17,17 +17,17 @@
     <screenshots>
         <screenshot type="default">
             <caption>Main window</caption>
-            <image type="source" width="408" height="730">https://gitlab.com/rszibele/e-juice-calc/raw/master/res/Screenshot_1.png?raw=true</image>
+            <image type="source" width="408" height="730">https://github.com/Acidburn0zzz/e-juice-calc-manjaro/raw/master/res/Screenshot_1.png?raw=true</image>
         </screenshot>
         <screenshot>
             <caption>Add flavor window</caption>
-            <image type="source" width="408" height="730">https://gitlab.com/rszibele/e-juice-calc/raw/master/res/Screenshot_2.png?raw=true</image>
+            <image type="source" width="408" height="730">https://github.com/Acidburn0zzz/e-juice-calc-manjaro/raw/master/res/Screenshot_2.png?raw=true</image>
         </screenshot>
     </screenshots>
-    <url type="homepage">https://gitlab.com/rszibele/e-juice-calc</url>
-    <url type="bugtracker">https://gitlab.com/rszibele/e-juice-calc/issues</url>
+    <url type="homepage">https://github.com/Acidburn0zzz/e-juice-calc-manjaro</url>
+    <url type="bugtracker">https://github.com/Acidburn0zzz/e-juice-calc-manjaro/issues</url>
     <provides>
-        <binary>e-juice-calc</binary>
+        <binary>e-juice-calc-manjaro</binary>
     </provides>
     <developer_name>Richard Szibele</developer_name>
     <categories>
@@ -37,25 +37,26 @@
         <keyword>E-Juice</keyword>
         <keyword>E-Liquid</keyword>
         <keyword>Calculator</keyword>
+        <keyword>Manjaro</keyword>
     </keywords>
     <releases>
-        <release version="1.0.7" date="2019-03-06">
+        <release version="1.0.8" date="2019-12-06">
             <description>
-                <p>Updated to use the org.kde.Platform runtime version 5.12.</p>
-                <p>Updated the stack lts to 13.10.</p>
+                <p>Updated to use the org.gtk3.Platform runtime version 3.34.1-1</p>
+                <p>Updated the stack lts to 19.04.1</p>
             </description>
         </release>
-        <release version="1.0.6" date="2019-01-05">
+        <release version="1.0.7" date="2019-01-05">
             <description>
                 <p>Various minor fixes.</p>
             </description>
         </release>
-        <release version="1.0.5" date="2018-08-31">
+        <release version="1.0.6" date="2018-08-31">
             <description>
                 <p>Added multiple architecture support.</p>
             </description>
         </release>
-        <release version="1.0.4" date="2018-08-28">
+        <release version="1.0.5" date="2018-08-28">
             <description>
                 <p>Minor build fixes.</p>
             </description>
